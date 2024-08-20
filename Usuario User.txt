@@ -1,0 +1,3 @@
+Usuario: User
+Pass: User.wp.2024.Test
+Ruta: https://binestate.com/wp-admin/
